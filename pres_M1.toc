@@ -1,0 +1,14 @@
+\beamer@sectionintoc {2}{Contexte}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Inserm U970 E04}{3}{0}{1}
+\beamer@subsectionintoc {2}{2}{EPP3}{22}{0}{1}
+\beamer@subsectionintoc {2}{3}{Sujet de stage}{31}{0}{1}
+\beamer@sectionintoc {3}{M\IeC {\'e}thodes}{38}{0}{2}
+\beamer@subsectionintoc {3}{1}{Variables}{38}{0}{2}
+\beamer@subsectionintoc {3}{2}{Construction de la variable d'exposition}{52}{0}{2}
+\beamer@sectionintoc {4}{R\IeC {\'e}sultats}{59}{0}{3}
+\beamer@subsectionintoc {4}{1}{Flowchart}{59}{0}{3}
+\beamer@subsectionintoc {4}{2}{Mod\IeC {\`e}le final}{61}{0}{3}
+\beamer@sectionintoc {5}{Retour d'exp\IeC {\'e}rience}{62}{0}{4}
+\beamer@subsectionintoc {5}{1}{L'\IeC {\'e}pid\IeC {\'e}miologie}{62}{0}{4}
+\beamer@subsectionintoc {5}{2}{Le monde de la recherche}{68}{0}{4}
+\beamer@sectionintoc {6}{Remerciements}{73}{0}{5}
